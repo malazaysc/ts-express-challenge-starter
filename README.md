@@ -21,4 +21,4 @@ To run the tests, use the following command:
 npm run test
 ```
 
-## Live coding Tasks will be provided in the interview
+## Live coding Tasks will be provided during the interview
